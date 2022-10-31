@@ -1,0 +1,10 @@
+.resources__link {
+    margin: 0 auto;
+    height: 100%;
+    text-decoration: none;
+    transition: opacity .4s ease-in;
+}
+
+.resources__link:hover {
+    opacity: .8;
+  }

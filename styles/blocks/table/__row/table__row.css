@@ -1,0 +1,5 @@
+.table__row {
+    vertical-align: top;
+    display: flex;
+    justify-content: space-between;
+  }
