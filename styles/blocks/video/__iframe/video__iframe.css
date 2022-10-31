@@ -2,6 +2,9 @@
     margin-right: 20px;
 }
 
-/* .video__iframe {
-    position: absolute;
-} */
+.video__iframe {
+    border: none;
+    width: 515px;
+    height: 316px;
+}
+
